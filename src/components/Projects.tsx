@@ -1,6 +1,6 @@
 "use client";
 
-import { OuterLink, Code, Database } from "lucide-react";
+import { Code } from "lucide-react";
 import { SectionHeader } from "./SectionHeader";
 import { ScrollReveal } from "./ScrollReveal";
 
