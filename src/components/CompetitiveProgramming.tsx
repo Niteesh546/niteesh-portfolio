@@ -1,6 +1,6 @@
 "use client";
 
-import { Trophy, Code, Activity } from "lucide-react";
+import { Trophy, Code } from "lucide-react";
 import { SectionHeader } from "./SectionHeader";
 import { ScrollReveal } from "./ScrollReveal";
 

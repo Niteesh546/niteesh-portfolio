@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+
 import { ArrowRight, Code } from "lucide-react";
 import { ScrollReveal } from "./ScrollReveal";
 
